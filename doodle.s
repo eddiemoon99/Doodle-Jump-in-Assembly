@@ -3,8 +3,6 @@
 # CSC258H5S Fall 2020 Assembly Final Project
 # University of Toronto, St. George
 #
-# Student: Eddie Moon, 1004161916
-#
 # Bitmap Display Configuration:
 # - Unit width in pixels: 16
 # - Unit height in pixels: 16
@@ -12,18 +10,6 @@
 # - Display height in pixels: 512
 # - Base Address for Display: 0x10008000 ($gp)
 #
-# Which milestone is reached in this submission?
-# (See the assignment handout for descriptions of the milestones)
-# - All Milestone 1, All Milestone 2, All Milestone 3, 1 part of Milestone 4, All Milestone 5
-#
-# Which approved additional features have been implemented?
-# (See the assignment handout for the list of additional features)
-# 1. realistic physics
-# 2. sound effects
-# 3. Fancier graphics
-#
-# Any additional information that the TA needs to know:
-# - (write here, if any)
 # t0 = display address
 # t1 = doodler
 # t2 = platform
